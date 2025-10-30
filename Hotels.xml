@@ -34,7 +34,7 @@
   </Hotel>
   <Hotel>
     <Name>Budget Inn</Name>
-	<Phone>480-844-790 5</Phone>
+	<Phone>480-844-7905</Phone>
 	<Address NearestAirport="Sky Harbor">
 	  <Number>106</Number>
 	  <Street>S Country Club Dr</Street>
@@ -109,4 +109,5 @@
 	  <Zip>85338</Zip>
 	</Address>
   </Hotel>
+
 </Hotels>

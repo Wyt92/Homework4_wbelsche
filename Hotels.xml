@@ -12,7 +12,7 @@
 	</Address>
   </Hotel>
   <Hotel>
-    <Name>Hampton Inn Suites</Name>
+    <Name>Hampton Inn &amp; Suites</Name>
 	<Phone>480-543-1500</Phone>
 	<Address NearestAirport="Chandler Airport Center">
 	  <Number>3265</Number>
@@ -89,7 +89,7 @@
 	</Address>
   </Hotel>
   <Hotel Rating="4.5">
-    <Name>Holiday Inn Express Suites</Name>
+    <Name>Holiday Inn Express &amp; Suites</Name>
 	<Phone>623-975-5540</Phone>
 	<Address NearestAirport="Glendale Regional">
 	  <Number>16540</Number>
@@ -100,7 +100,7 @@
 	</Address>
   </Hotel>
   <Hotel>
-    <Name>Quality Inn Suites</Name>
+    <Name>Quality Inn &amp; Suites</Name>
 	<Phone>480-535-4292</Phone>
 	<Address NearestAirport="Phoenix Goodyear">
 	  <Number>950</Number>
@@ -112,6 +112,7 @@
   </Hotel>
 
 </Hotels>
+
 
 
 

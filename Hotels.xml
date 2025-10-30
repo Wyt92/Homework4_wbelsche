@@ -1,0 +1,112 @@
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Hotel Rating="4.1">
+    <Name>Best Western</Name>
+	<Phone>480-671-6000</Phone>
+	<Address NearestAirport="Mesa Gateway">
+	  <Number>8333</Number>
+	  <Street>E Sunrise Sky Dr</Street>
+	  <City>Gold Canyon</City>
+	  <State>Arizona</State>
+	  <Zip>85118</Zip>
+	</Address>
+  </Hotel>
+  <Hotel>
+    <Name>Hampton Inn &amp Suites</Name>
+	<Phone>480-543-1500</Phone>
+	<Address NearestAirport="Chandler Airport Center">
+	  <Number>3265</Number>
+	  <Street>S Market St</Street>
+	  <City>Gilbert</City>
+	  <State>Arizona</State>
+	  <Zip>85297</Zip>
+	</Address>
+  </Hotel>
+  <Hotel Rating="4.3">
+    <Name>Hilton</Name>
+	<Phone>480-899-7400</Phone>
+	<Address NearestAirport="Chandler Airport Center">
+	  <Number>2929</Number>
+	  <Street>W Frye Rd</Street>
+	  <City>Chandler</City>
+	  <State>Arizona</State>
+	  <Zip>85224</Zip>
+	</Address>
+  </Hotel>
+  <Hotel>
+    <Name>Budget Inn</Name>
+	<Phone>480-844-790 5</Phone>
+	<Address NearestAirport="Sky Harbor">
+	  <Number>106</Number>
+	  <Street>S Country Club Dr</Street>
+	  <City>Mesa</City>
+	  <State>Arizona</State>
+	  <Zip>85210</Zip>
+	</Address>
+  </Hotel>
+  <Hotel Rating="4.3">
+    <Name>Hyatt Place</Name>
+	<Phone>480-207-1578</Phone>
+	<Address NearestAirport="Sky Harbor">
+	  <Number>601</Number>
+	  <Street>E 6th St</Street>
+	  <City>Tempe</City>
+	  <State>Arizona</State>
+	  <Zip>85281</Zip>
+	</Address>
+  </Hotel>
+  <Hotel>
+    <Name>The Monarch</Name>
+	<Phone>623-352-7272</Phone>
+	<Address NearestAirport="Sky Harbor">
+	  <Number>4000</Number>
+	  <Street>N Drinkwater Blvd</Street>
+	  <City>Scottsdale</City>
+	  <State>Arizona</State>
+	  <Zip>85251</Zip>
+	</Address>
+  </Hotel>
+  <Hotel Rating="4.3">
+    <Name>Sentral Alloy Midtown</Name>
+	<Phone>833-584-1129</Phone>
+	<Address NearestAirport="Sky Harbor">
+	  <Number>3010</Number>
+	  <Street>N 2nd St</Street>
+	  <City>Phoenix</City>
+	  <State>Arizona</State>
+	  <Zip>85012</Zip>
+	</Address>
+  </Hotel>
+  <Hotel>
+    <Name>Motel 6</Name>
+	<Phone>623-278-4962</Phone>
+	<Address NearestAirport="Glendale Regional">
+	  <Number>7116</Number>
+	  <Street>N 59th Ave</Street>
+	  <City>Glendale</City>
+	  <State>Arizona</State>
+	  <Zip>85301</Zip>
+	</Address>
+  </Hotel>
+  <Hotel Rating="4.5">
+    <Name>Holiday Inn Express &amp Suites</Name>
+	<Phone>623-975-5540</Phone>
+	<Address NearestAirport="Glendale Regional">
+	  <Number>16540</Number>
+	  <Street>N Bullard Ave</Street>
+	  <City>Surprise</City>
+	  <State>Arizona</State>
+	  <Zip>85374</Zip>
+	</Address>
+  </Hotel>
+  <Hotel>
+    <Name>Quality Inn &amp Suites</Name>
+	<Phone>480-535-4292</Phone>
+	<Address NearestAirport="Phoenix Goodyear">
+	  <Number>950</Number>
+	  <Street>N Dysart Rd</Street>
+	  <City>Goodyear</City>
+	  <State>Arizona</State>
+	  <Zip>85338</Zip>
+	</Address>
+  </Hotel>
+</Hotels>

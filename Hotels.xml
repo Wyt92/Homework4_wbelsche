@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Hotel Rating="4.1">
     <Name>Best Western</Name>
@@ -111,5 +112,6 @@
   </Hotel>
 
 </Hotels>
+
 
 

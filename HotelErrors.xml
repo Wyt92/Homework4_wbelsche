@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
   <Hotel Rating="4.1">
     <Name>Best Western</Name>
 	<Phone>480-671-6000</Phone>
@@ -111,5 +110,6 @@
   </Hotel>
 
 </Hotel>
+
 
 
